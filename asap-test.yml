@@ -1,5 +1,4 @@
-foo
-  bar: "asap test"
-
-app
-  timeout: 3
+foo:
+    bar: asap test
+app:
+    timeout: 9
