@@ -1,5 +1,5 @@
 foo
-  bar: asap dev
+  bar: "asap dev"
 
 app
   timeout: 9
