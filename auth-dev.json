@@ -1,0 +1,8 @@
+{
+    "app": {
+        "timeout": 77
+    },
+    "foo": {
+        "bar": "auth dev"
+    }
+}
