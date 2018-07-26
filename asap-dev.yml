@@ -1,2 +1,5 @@
-foo.bar=asap dev
-app.timeout=9
+foo
+  bar: asap dev
+
+app
+  timeout: 9
